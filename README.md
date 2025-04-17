@@ -1,7 +1,6 @@
 ### 🚀 Hi there!
 
-I'm Mohamed Edrah a software engineer from Libya, currently i work as a JavaScript engineer at [aramtech](https://aramtech.ly/), where i do fullstack development using JavaScript and other types
-of tech.
+I'm Mohamed Edrah a software engineer from Libya, currently i work as a JavaScript engineer at the Central Bank Of Libya, my interests are DevOps & Full-stack web development.
 
 - 🔭 I’m currently working with Elixir & JavaScript.
 - 📫 You can email me at stable.monday@gmail.com.

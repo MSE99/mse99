@@ -1,6 +1,6 @@
 ### 🚀 Hi there!
 
-I'm Mohamed Edrah a software engineer from Libya, currently i work as a JavaScript engineer at the Central Bank Of Libya, my interests are DevOps & Full-stack web development.
+I'm Mohamed Edrah a software engineer from Libya, currently i work as a software engineer at the Central Bank Of Libya, my interests are DevOps & Full-stack web development.
 
 - 🔭 I’m currently working with PHP, JavaScript and go.
 - 📫 You can email me at stable.monday@gmail.com or m.edrah@cbl.gov.ly.
